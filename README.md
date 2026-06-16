@@ -1,0 +1,3 @@
+----> Just a basic To Do List App .
+----> I'm at the beginning phase of React.
+----> To get used to react I created this Basic To Do List.
